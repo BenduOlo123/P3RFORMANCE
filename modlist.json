@@ -1,0 +1,36 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "P3RFORMANCE",
+    "description": "P3RFORMANCE is a Wabbajack modlist that improves the performance of Skyrim, it was made for low end computers to run Skyrim with high FPS.",
+    "author": "BenduOlo123",
+    "maintainers": [
+      "github/BenduOlo123"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Performance Friendly"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/BenduOlo123/P3RFORMANCE/blob/main/489830_20230913195231_1.png?raw=true",
+      "readme": "https://sites.google.com/view/wabbajackmodlistp3rformance",
+      "download": "https://authored-files.wabbajack.org/P3RFORMANCE.wabbajack_6fb409e3-70ee-442c-9a14-2545daf969e7",
+      "machineURL": "P3RFORMANCE",
+      "discordURL": "https://discord.gg/4DkrNQTRtc"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "B61B/SuIGdw=",
+      "Size": 114445051,
+      "NumberOfArchives": 280,
+      "SizeOfArchives": 20553520361,
+      "NumberOfInstalledFiles": 34455,
+      "SizeOfInstalledFiles": 22155016891
+    },
+    "version": "1.0.0"
+  }
+]
